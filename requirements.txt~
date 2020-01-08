@@ -1,0 +1,8 @@
+glob2 #change it to glob3 if you are using python3
+numpy
+scipy
+scikit-learn
+tifffile
+tensorflow-gpu==1.12.0
+keras==2.2.2
+
