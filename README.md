@@ -6,6 +6,7 @@ Clone the git project:
 ```
 $ git clone https://github.com/wisekrack/AutoEncoder.git
 ```
+Tested on Python2 , make changes in requirements.txt if you are using Python3
 The requirements (including tensorflow) can be installed using:
 ```
 pip install -r requirements.txt
